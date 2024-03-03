@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty form page" />
+			<Item Name="LocalizableStrings.addRecord_6mtm090_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_9ntyrl4_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ExpansionPanel_68jq71q_title.Value" Value="Visits" />
+			<Item Name="LocalizableStrings.ExpansionPanel_7w739q9_title.Value" Value="Visits" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_0yr4cyp_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_iqlt7cj_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_RealtyVisits_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_3wklaq6_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_g37qmj6_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_gdxaudf_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_lv5up7c_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_5qs525r_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_ffs16z7_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_j4d6tzx_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_w4482qs_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_4ulih2f_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_fa91mpg_caption.Value" Value="Actions" />
+		</Items>
+	</Group>
+</Resources>
